@@ -15,7 +15,7 @@ public class lab1 {
 	public static void main(String[] args) {
 		JFrame win = new JFrame();
 		win.setBounds(760, 390, 400, 300);
-		win.setTitle("Hello program Poommin lakornchai 68160041 n74");
+		win.setTitle("Hello program Pakin Chotaxkarawattana 68160040 n73");
 		
 		JPanel bg = new JPanel();
 		bg.setBackground(new Color(255,255,255));
